@@ -2,6 +2,8 @@
 
 I'm a full stack developer, designer, occasional photographer, and PHP apologist.
 
+___
+
 **Some Things I'm Involved In:**
 
 🔥 Public safety SaaS software at [First Arriving](https://firstarriving.com).
@@ -10,8 +12,12 @@ I'm a full stack developer, designer, occasional photographer, and PHP apologist
 
 🤖  An upcoming AI powered party game.
 
+___
+
 **Open Source Projects:**
 
 [laravel-cache-refs](https://github.com/aprivette/laravel-cache-refs) - A Laravel Artisan command to purge cache tag refs from Redis.
+
+___
 
 **Stack:** PHP, Laravel, JavaScript, Node.js, Terraform, Docker, AWS
