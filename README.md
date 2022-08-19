@@ -14,6 +14,4 @@ I'm a full stack developer, designer, occasional photographer, and PHP apologist
 
 [laravel-cache-refs](https://github.com/aprivette/laravel-cache-refs) - A Laravel Artisan command to purge cache tag refs from Redis.
 
-**Stack**
-
-PHP, Laravel, JavaScript, Node.js, Terraform, Docker, AWS
+**Stack:** PHP, Laravel, JavaScript, Node.js, Terraform, Docker, AWS
