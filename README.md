@@ -8,9 +8,9 @@ ___
 
 🔥 Public safety SaaS software at [First Arriving](https://firstarriving.com).
 
-👾 [LoLSpectator.tv](https://lolspectator.tv), a tool for watching live League of Legends matches
+🤖  [Turing Quest](https://turingquest.com/), an AI powered party game.
 
-🤖  An upcoming AI powered party game.
+👾 [LoLSpectator.tv](https://lolspectator.tv), a tool for watching live League of Legends matches
 
 ___
 
