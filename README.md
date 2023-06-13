@@ -1,6 +1,6 @@
 ### Hi, I'm Adam!
 
-I'm a full stack developer, designer, occasional photographer, and PHP apologist.
+I'm a full stack developer, designer, occasional photographer, and [PHP apologist](https://twitter.com/taylorotwell/status/1297164230718713856).
 
 ___
 
